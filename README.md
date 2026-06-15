@@ -198,7 +198,7 @@ http://localhost:5000
 
 ## 👨‍💻 Author
 
-**Kanthasamy K.N**
+**Kanthasamy K N**
 
 GitHub: https://github.com/Kans23-cloud
 
