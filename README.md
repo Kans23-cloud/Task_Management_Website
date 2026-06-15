@@ -128,7 +128,7 @@ JWT_SECRET=your_secret_key
 Start Backend:
 
 ```bash
-npm run dev
+npx nodemon server.js
 ```
 
 ---
