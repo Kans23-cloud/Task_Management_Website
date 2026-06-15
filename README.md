@@ -184,23 +184,15 @@ http://localhost:5000
 
 ### Register Page
 
-*Add screenshot here*
+<img width="1000" height="594" alt="image" src="https://github.com/user-attachments/assets/e2aa83e6-c007-4b3c-b6ee-d8676d0aebf0" />
+
 
 ### Dashboard
 
-*Add screenshot here*
+<img width="1005" height="590" alt="image" src="https://github.com/user-attachments/assets/3f89f849-3f94-429b-b456-3de54bc2d403" />
+<img width="1005" height="257" alt="image" src="https://github.com/user-attachments/assets/71ca6dc3-1233-4995-8c80-60228a9b9c9a" />
 
----
 
-## 🔥 Future Enhancements
-
-* Task Categories
-* Search Tasks
-* Filter by Priority
-* Due Dates
-* Dark Mode
-* User Profile Management
-* Email Notifications
 
 ---
 
