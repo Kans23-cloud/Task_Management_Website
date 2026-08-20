@@ -201,11 +201,3 @@ http://localhost:5000
 **Kanthasamy K N**
 
 GitHub: https://github.com/Kans23-cloud
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
-Happy Coding! 🚀
